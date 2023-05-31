@@ -80,7 +80,7 @@
    <accessor type='clickXY' value='image(6)' selected='false'/>
 </dialect>
 </step>
-<step action='clickXY' value='"19,15"' type='web' desc='' isThinkTime='false' isCommented='true' sequence='0'>
+<step action='clickXY' value='"19,15"' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0'>
   <dialect type='sahi'>
    <accessor type='clickXY' value='image(&quot;form-selector-swatch[2]&quot;)' selected='true'/>
    <accessor type='clickXY' value='image(&quot;Green&quot;)' selected='false'/>
